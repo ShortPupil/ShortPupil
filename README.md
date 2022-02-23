@@ -1,4 +1,4 @@
-### Welcome 👋
+### Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![](https://visitor-badge.glitch.me/badge?page_id=ShortPupil)
 
 <!--
 **ShortPupil/ShortPupil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://visitor-badge.glitch.me/badge?page_id=ShortPupil)
+[![ShortPupil's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShortPupil&hide=contribs,prs&show_icons=true&theme=graywhite&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShortPupil&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ShortPupil's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShortPupil&hide=contribs,prs&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShortPupil&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ShortPupil&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![ShortPupil's github activity graph](https://activity-graph.herokuapp.com/graph?username=ShortPupil&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
