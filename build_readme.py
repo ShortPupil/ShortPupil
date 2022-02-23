@@ -37,12 +37,6 @@ def fetch_blog_entries():
 
 if __name__ == "__main__":
     readme = root / "README.md"
-    md = "\n".join(
-        [
-            "* <a href={url} target='_blank'>{repo} {release}</a> - {published_at}".format(**release)
-            for release in releases[:8]
-        ]
-    )
     readme_contents = readme.open().read()
 
     # Write out full project-releases.md file
