@@ -7,4 +7,7 @@
 
 #### 🎣 <a href="https://ShortPupil.github.io/" target="_blank">Recent Blog</a>
 <!-- blog starts -->
+* <a href='https://songzi2693.cn/2022/02/15/%E9%80%BB%E8%BE%91%E9%94%99%E8%AF%AF/' target='_blank'>test1</a>
+* <a href='https://songzi2693.cn/2021/12/31/%E7%A4%BE%E4%BC%9A%E5%AD%A6%E5%AF%BC%E8%AE%BA/' target='_blank'>test2</a>
+* <a href='https://songzi2693.cn/2021/06/30/cs224n/' target='_blank'>test3</a>
 <!-- blog ends -->
